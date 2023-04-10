@@ -5,9 +5,10 @@
 <h2>✨Hello, I'm TaeYang OH!✨</h2>
 
 <br>
-안녕하세요 예비 개발자 오태양입니다!<br>
+안녕하세요 예비 개발자 오태양입니다!😍<br>
 "Courage is very important when it comes to anything" <br><br>
-<img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
+  
+<img src="https://edgio.clien.net/F01/5655906/ddc40a3e3120465c9a4.GIF" width="30%">
 <h2>🎈About Me🎈</h2>
 🎓Graduated : HUFS(Hankuk University of Foreign Studies)<br>
 📜Certificated Korea IT program in Seoul<br>
@@ -46,7 +47,7 @@
 </div>
 
 Footer
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
 Footer navigation
 Terms
 Privacy
