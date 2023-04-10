@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=TaeYang_OH&fontSize=50)<br>
 <h2>✨Hello, I'm TaeYang OH!✨</h2>
 
-<div style = "text-align:center"> 
 <br>
 안녕하세요 예비 개발자 오태양입니다!😍<br>
 "Courage is very important when it comes to anything" <br><br>
@@ -14,7 +13,6 @@
 📜Certificated Korea IT program in Seoul<br>
 💌Email : oty7942@gmail.com<br>
 # 💻Tech Stack
-</div>
   
 <br>
 
