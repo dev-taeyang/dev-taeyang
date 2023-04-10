@@ -34,14 +34,14 @@
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeDaa1029&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=SaeDaa1029&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-taeyang&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-taeyang&show_icons=true">
 </div>
 <br>
 
 
 # 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookCoding&show_icons=true&theme=algolia )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-taeyang&show_icons=true&theme=algolia )
 </div>
 
 Footer
