@@ -14,7 +14,7 @@
 📜Certificated Korea IT program in Seoul<br>
 💌Email : oty7942@gmail.com<br>
 # 💻Tech Stack
-<br>
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
 <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&">
