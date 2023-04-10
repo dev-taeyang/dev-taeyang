@@ -1,5 +1,4 @@
 # TaeYang-OH
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=TaeYang_OH&fontSize=50)<br>
 <h2>✨Hello, I'm TaeYang OH!✨</h2>
