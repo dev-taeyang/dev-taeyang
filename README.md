@@ -1,8 +1,8 @@
 # TaeYang-OH
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Mingu_Kang&fontSize=50)<br>
-<h2>✨Hello, I'm Mingu Kang!✨</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=TaeYang_OH&fontSize=50)<br>
+<h2>✨Hello, I'm TaeYang OH!✨</h2>
 
 <br>
 안녕하세요 예비 개발자 오태양입니다!<br>
@@ -11,7 +11,7 @@
 <h2>🎈About Me🎈</h2>
 🎓Graduated : HUFS(Hankuk University of Foreign Studies)<br>
 📜Certificated Korea IT program in Seoul<br>
-💌Email : rkdalsrn2331@naver.com<br>
+💌Email : oty7942@gmail.com<br>
 # 💻Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
