@@ -1,11 +1,11 @@
-# Mingu-Kang
+# TaeYang-OH
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Mingu_Kang&fontSize=50)<br>
 <h2>✨Hello, I'm Mingu Kang!✨</h2>
 
 <br>
-안녕하세요! 백엔드 개발자 준비중인 강민구입니다!!<br>
+안녕하세요 예비 개발자 오태양입니다!<br>
 "Courage is very important when it comes to anything" <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>
