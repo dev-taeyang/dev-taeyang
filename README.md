@@ -12,6 +12,7 @@
 🎓Graduated : HUFS(Hankuk University of Foreign Studies)<br>
 📜Certificated Korea IT program in Seoul<br>
 💌Email : oty7942@gmail.com<br>
+<br>
 # 💻Tech Stack
   
 <br>
