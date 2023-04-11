@@ -33,7 +33,6 @@
 
 
 # 📊GitHub Stats :
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-taeyang&layout=compact">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-taeyang&show_icons=true&theme=algolia )
 </div>
 
